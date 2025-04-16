@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+button {
+    background-color: blueviolet;
+    color: #f5f5f5;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+#colorCode {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin: 20px 0;
+}
